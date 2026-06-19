@@ -1,6 +1,0 @@
-Arquivo: palindromos.txt
-raiar
-Ana
-esse
-radar
-Foram encontrados 4 palindromos neste arquivo.
